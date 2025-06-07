@@ -3,7 +3,7 @@ import { useState } from "react";
 export const Qrcode = () => {
   const [img, setImg] = useState("");
   const [load, setLoad] = useState(false);
-  const [qrdata, setQrdata] = useState("joes");
+  const [qrdata, setQrdata] = useState("Siva");
   const [qrsizeInput, setQrsizeInput] = useState("150"); // input field
   const [qrsize, setQrsize] = useState("150"); // applied when Generate is pressed
 
