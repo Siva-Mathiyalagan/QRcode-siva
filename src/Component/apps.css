@@ -1,0 +1,13 @@
+.banner{
+    color: green;
+}
+.code{
+    color: red;
+}
+.student table,th,td,tr{
+    border: 1px solid #ccc;
+    text-align: left;
+    border-collapse: collapse;
+    margin-bottom: 10px;
+    width: 300px;
+}
